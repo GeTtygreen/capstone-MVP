@@ -1,0 +1,18 @@
+    This is the name of the app:    DUBB
+    const DESCRIPTION =>{
+        sports app that allows you to view games , schedules ,players,injured reserves list, and more ...
+    } 
+
+                     ***Features *** 
+let 1 = LOGIN+(userAUTH)
+let 2 = "Uses sPorts APi to display<==LIVE & ACCURATE data ; 
+let 3 = SEND crYptO to another user || limits of !==20$ 
+^^^^^^^^^^^^^^^^^^^GASS fees not included ^^^^^^^^^^^^^^^^
+let 4 = App links to CRYTPO wallet (MetaMAsk)
+
+                        ***SPECIAL***
+if (PLAY HIGHLIGHTS  === true){
+    show play highlights of selected games ${work in progress}
+}else {
+    "embed youtube to show highlight or <a> Links you to youtube to find the play highlight intended</a>
+}
